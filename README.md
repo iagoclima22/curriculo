@@ -39,4 +39,4 @@ Experiência em atendimento ao cliente, operação de caixa, e formação eletro
 Este projeto foi inspirado no curso de Desenvolvimento Front-End ministrado pelo professor **Daniel Tapias Morales**, como forma de colocar em prática os conhecimentos adquiridos sobre estruturação HTML e estilização com CSS.
 
 ---
-Feito com ❤️ por **Iago Campanhol de Lima**.
+Feito por **Iago Campanhol de Lima**.
